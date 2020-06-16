@@ -1,0 +1,22 @@
+{
+  "name": "react-native-cb-demo-example",
+  "displayName": "CbDemo Example",
+  "expo": {
+    "name": "react-native-cb-demo-example",
+    "slug": "react-native-cb-demo-example",
+    "description": "Example app for react-native-cb-demo",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
