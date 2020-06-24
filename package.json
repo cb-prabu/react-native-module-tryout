@@ -60,11 +60,13 @@
     "react": "16.11.0",
     "react-native": "0.62.0",
     "release-it": "^13.5.8",
-    "typescript": "^3.8.3"
+    "typescript": "^3.8.3",
+    "react-native-webview": "8.1.1"
   },
   "peerDependencies": {
     "react": "*",
-    "react-native": "*"
+    "react-native": "*",
+    "react-native-webview": "*"
   },
   "jest": {
     "preset": "react-native",
